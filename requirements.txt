@@ -1,0 +1,9 @@
+streamlit
+requests
+sounddevice
+librosa
+numpy
+scipy
+torch
+faster-whisper
+deep-translator
